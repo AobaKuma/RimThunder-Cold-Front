@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RT_KV_1_Tank_Turret.label>Zis-5 反坦克炮</RT_KV_1_Tank_Turret.label>
+  <RT_KV_1_Tank_Turret.fireModes.0.label>單發射擊</RT_KV_1_Tank_Turret.fireModes.0.label>
+
+
+  <!-- coaxial MG -->
+
+  <RT_KV_1_Coaxial_MGTurret.label>DTM 車載機槍</RT_KV_1_Coaxial_MGTurret.label>
+  <RT_KV_1_Coaxial_MGTurret.fireModes.0.label>連發射擊</RT_KV_1_Coaxial_MGTurret.fireModes.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RT_Make_KV_1_HeavyTank_Blueprint.label>Assemble KV-1</RT_Make_KV_1_HeavyTank_Blueprint.label>
+	<RT_Make_KV_1_HeavyTank_Blueprint.description>Assemble KV-1。</RT_Make_KV_1_HeavyTank_Blueprint.description>
+
+	<RT_Make_T_38_LightTank_Blueprint.label>Assemble T-38</RT_Make_T_38_LightTank_Blueprint.label>
+	<RT_Make_T_38_LightTank_Blueprint.description>Assemble T-38。</RT_Make_T_38_LightTank_Blueprint.description>
+
+	<RT_Make_T_27_Tankette_Blueprint.label>Assemble T-27</RT_Make_T_27_Tankette_Blueprint.label>
+	<RT_Make_T_27_Tankette_Blueprint.description>Assemble T-27。</RT_Make_T_27_Tankette_Blueprint.description>
+
+	<RT_Make_GAZ63_Truck_Blueprint.label>Assemble GAZ63</RT_Make_GAZ63_Truck_Blueprint.label>
+	<RT_Make_GAZ63_Truck_Blueprint.description>Assemble GAZ63。</RT_Make_GAZ63_Truck_Blueprint.description>
+
+	<RT_Make_GAZ64_Car_Blueprint.label>Assemble GAZ64</RT_Make_GAZ64_Car_Blueprintt.label>
+	<RT_Make_GAZ64_Car_Blueprint.description>Assemble GAZ64。</RT_Make_GAZ64_Car_Blueprint.description>
+
+</LanguageData>
